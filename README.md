@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSV to SQLite ETL Pipeline
 
 ## Project Overview
@@ -162,6 +163,7 @@ logs/etl.log
 * Handle Incremental data loads
 * Add Airflow orchestration
 * Add Docker support
+
 * Add automated scheduling
 * Add data validation framework
 
@@ -170,3 +172,7 @@ logs/etl.log
 ## Author
 
 Purnima Singh
+=======
+# csv-to-sqlite-etl-pipeline
+Practice Project for DE
+
