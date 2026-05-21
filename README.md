@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CSV to SQLite ETL Pipeline
 
 ## Project Overview
@@ -17,6 +16,7 @@ The pipeline:
 
 ## Project Structure
 
+```text
 csv-to-sqlite-etl-pipeline/
 │
 ├── data/                          # Input CSV files
@@ -28,15 +28,15 @@ csv-to-sqlite-etl-pipeline/
 ├── output/                        # SQLite database output
 │   └── orders.db
 │
-├── venv/                         # Virtual environment
+├── venv/                          # Virtual environment
 │
 ├── analysis.py                   # Analysing the data
 ├── etl.py                        # Main ETL pipeline 
-├── transformation.py             # Data Transformation logic
-├── requirements.txt              # Project depandencies
-├── README.md                     # Project documentation
-└── .gitignore                    
-
+├── transformation.py            # Data Transformation logic
+├── requirements.txt             # Project dependencies
+├── README.md                    # Project documentation
+└── .gitignore
+```
 
 ## Technologies Used
 
@@ -169,10 +169,9 @@ logs/etl.log
 
 ---
 
-## Author
+#### Author
 
-Purnima Singh
-=======
+#### Purnima Singh
 # csv-to-sqlite-etl-pipeline
-Practice Project for DE
+###### Practice Project for DE
 
